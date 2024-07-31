@@ -14,7 +14,7 @@ import java.util.Scanner;
 import java.io.*;
 import java.net.*;
 
-public class MineLinks extends Application
+public class GetHTML extends Application
 {
     private TextArea outArea;
     private Button doItButton;
