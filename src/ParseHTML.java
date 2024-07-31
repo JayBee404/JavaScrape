@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.FileWriter;
 
-public class parseHTML {
+public class ParseHTML {
     public static void main(String[] args) {
 
         String fileName = ""; // input filename here
